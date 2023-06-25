@@ -270,6 +270,9 @@
    .heading{
     font-size: 22px;
    }
+ .tooltip{
+    left: 230px;
+   }
  }
  @media(max-width:350px){
    .sub_head{
@@ -283,5 +286,8 @@
    }
    .btn{
     font-size: 14px;
+   }
+    .tooltip{
+    left: 200px;
    }
  }
