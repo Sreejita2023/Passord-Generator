@@ -244,3 +244,44 @@
       width: 50%;
    }
  }
+ @media(max-width:600px){
+   .sub_head{
+      width: 60%;
+   }
+   .main{
+      width: 60%;
+   }
+ }
+ @media(max-width:500px){
+   .sub_head{
+      width: 70%;
+   }
+   .main{
+      width: 70%;
+   }
+ }
+ @media(max-width:400px){
+   .sub_head{
+      width: 80%;
+   }
+   .main{
+      width: 80%;
+   }
+   .heading{
+    font-size: 22px;
+   }
+ }
+ @media(max-width:350px){
+   .sub_head{
+      width: 90%;
+   }
+   .main{
+      width: 90%;
+   }
+   .heading{
+    font-size: 22px;
+   }
+   .btn{
+    font-size: 14px;
+   }
+ }
